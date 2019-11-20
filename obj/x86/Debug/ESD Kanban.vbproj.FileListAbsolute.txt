@@ -1,0 +1,167 @@
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\bin\x86\Debug\ESD Kanban.exe.config
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\bin\x86\Debug\ESD Kanban.exe
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\bin\x86\Debug\ESD Kanban.pdb
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\bin\x86\Debug\ESD Kanban.xml
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\bin\x86\Debug\simpleupdater.dll
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\bin\x86\Debug\ZedGraph.dll
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\bin\x86\Debug\en\simpleupdater.resources.dll
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\obj\x86\Debug\ESD_Kanban.ESD_Maintain.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\obj\x86\Debug\ESD_Kanban.ESD_STATE.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\obj\x86\Debug\ESD_Kanban.Form1.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\obj\x86\Debug\ESD_Kanban.Resources.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\obj\x86\Debug\ESD_Kanban.ESD_Agreement.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\obj\x86\Debug\ESD_Kanban.from_Squad_leader_selection.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\obj\x86\Debug\ESD_Kanban.from_Setting.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\obj\x86\Debug\ESD Kanban.vbproj.GenerateResource.cache
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\obj\x86\Debug\ESD Kanban.vbproj.CoreCompileInputs.cache
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\obj\x86\Debug\ESD Kanban.vbproj.CopyComplete
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\obj\x86\Debug\ESD Kanban.exe
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\obj\x86\Debug\ESD Kanban.xml
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\obj\x86\Debug\ESD Kanban.pdb
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\obj\x86\Debug\ESD Kanban.vbprojAssemblyReference.cache
+D:\桌面\ESD可视化看板\bin\x86\Debug\ESD Kanban.exe.config
+D:\桌面\ESD可视化看板\bin\x86\Debug\ESD Kanban.exe
+D:\桌面\ESD可视化看板\bin\x86\Debug\ESD Kanban.pdb
+D:\桌面\ESD可视化看板\bin\x86\Debug\ESD Kanban.xml
+D:\桌面\ESD可视化看板\bin\x86\Debug\Newtonsoft.Json.dll
+D:\桌面\ESD可视化看板\bin\x86\Debug\ZedGraph.dll
+D:\桌面\ESD可视化看板\obj\x86\Debug\ESD_Kanban.ESD_Maintain.resources
+D:\桌面\ESD可视化看板\obj\x86\Debug\ESD_Kanban.ESD_STATE.resources
+D:\桌面\ESD可视化看板\obj\x86\Debug\ESD_Kanban.Form1.resources
+D:\桌面\ESD可视化看板\obj\x86\Debug\ESD_Kanban.Resources.resources
+D:\桌面\ESD可视化看板\obj\x86\Debug\ESD_Kanban.ESD_Agreement.resources
+D:\桌面\ESD可视化看板\obj\x86\Debug\ESD_Kanban.from_Squad_leader_selection.resources
+D:\桌面\ESD可视化看板\obj\x86\Debug\ESD_Kanban.from_Setting.resources
+D:\桌面\ESD可视化看板\obj\x86\Debug\ESD Kanban.vbproj.GenerateResource.Cache
+D:\桌面\ESD可视化看板\obj\x86\Debug\ESD Kanban.vbproj.CoreCompileInputs.cache
+D:\桌面\ESD可视化看板\obj\x86\Debug\ESD Kanban.exe
+D:\桌面\ESD可视化看板\obj\x86\Debug\ESD Kanban.xml
+D:\桌面\ESD可视化看板\obj\x86\Debug\ESD Kanban.pdb
+D:\桌面\ESD可视化看板\bin\x86\Debug\ESD Kanban.exe.manifest
+D:\桌面\ESD可视化看板\bin\x86\Debug\ESD Kanban.application
+D:\桌面\ESD可视化看板\obj\x86\Debug\ESD Kanban.exe.manifest
+D:\桌面\ESD可视化看板\obj\x86\Debug\ESD Kanban.application
+D:\桌面\ESD可视化看板\obj\x86\Debug\ESD Kanban.vbprojResolveAssemblyReference.cache
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD可视化看板\obj\x86\Debug\ESD_Kanban.ESD_Maintain.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD可视化看板\obj\x86\Debug\ESD_Kanban.ESD_STATE.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD可视化看板\obj\x86\Debug\ESD_Kanban.Form1.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD可视化看板\obj\x86\Debug\ESD_Kanban.Resources.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD可视化看板\obj\x86\Debug\ESD_Kanban.ESD_Agreement.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD可视化看板\obj\x86\Debug\ESD_Kanban.from_Squad_leader_selection.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD可视化看板\obj\x86\Debug\ESD_Kanban.from_Setting.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD可视化看板\obj\x86\Debug\ESD Kanban.vbproj.GenerateResource.cache
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD可视化看板\obj\x86\Debug\ESD Kanban.vbproj.CoreCompileInputs.cache
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD可视化看板\obj\x86\Debug\ESD Kanban.exe
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD可视化看板\obj\x86\Debug\ESD Kanban.xml
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD可视化看板\obj\x86\Debug\ESD Kanban.pdb
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD可视化看板\bin\x86\Debug\ESD Kanban.exe.config
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD可视化看板\bin\x86\Debug\ESD Kanban.exe.manifest
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD可视化看板\bin\x86\Debug\ESD Kanban.application
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD可视化看板\bin\x86\Debug\ESD Kanban.exe
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD可视化看板\bin\x86\Debug\ESD Kanban.pdb
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD可视化看板\bin\x86\Debug\ESD Kanban.xml
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD可视化看板\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD可视化看板\bin\x86\Debug\simpleupdater.dll
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD可视化看板\bin\x86\Debug\ZedGraph.dll
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD可视化看板\bin\x86\Debug\en\simpleupdater.resources.dll
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD可视化看板\obj\x86\Debug\ESD Kanban.exe.manifest
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD可视化看板\obj\x86\Debug\ESD Kanban.application
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD可视化看板\obj\x86\Debug\ESD Kanban.vbproj.CopyComplete
+D:\桌面\ESD\bin\x86\Debug\ESD Kanban.exe.config
+D:\桌面\ESD\bin\x86\Debug\ESD Kanban.exe.manifest
+D:\桌面\ESD\bin\x86\Debug\ESD Kanban.application
+D:\桌面\ESD\bin\x86\Debug\ESD Kanban.exe
+D:\桌面\ESD\bin\x86\Debug\ESD Kanban.pdb
+D:\桌面\ESD\bin\x86\Debug\ESD Kanban.xml
+D:\桌面\ESD\bin\x86\Debug\Newtonsoft.Json.dll
+D:\桌面\ESD\bin\x86\Debug\ZedGraph.dll
+D:\桌面\ESD\bin\x86\Debug\en\simpleupdater.resources.dll
+D:\桌面\ESD\obj\x86\Debug\ESD Kanban.vbprojResolveAssemblyReference.cache
+D:\桌面\ESD\obj\x86\Debug\ESD_Kanban.ESD_Maintain.resources
+D:\桌面\ESD\obj\x86\Debug\ESD_Kanban.ESD_STATE.resources
+D:\桌面\ESD\obj\x86\Debug\ESD_Kanban.Form1.resources
+D:\桌面\ESD\obj\x86\Debug\ESD_Kanban.Resources.resources
+D:\桌面\ESD\obj\x86\Debug\ESD_Kanban.ESD_Agreement.resources
+D:\桌面\ESD\obj\x86\Debug\ESD_Kanban.from_Squad_leader_selection.resources
+D:\桌面\ESD\obj\x86\Debug\ESD_Kanban.from_Setting.resources
+D:\桌面\ESD\obj\x86\Debug\ESD Kanban.vbproj.GenerateResource.Cache
+D:\桌面\ESD\obj\x86\Debug\ESD Kanban.vbproj.CoreCompileInputs.cache
+D:\桌面\ESD\obj\x86\Debug\ESD Kanban.exe.manifest
+D:\桌面\ESD\obj\x86\Debug\ESD Kanban.application
+D:\桌面\ESD\obj\x86\Debug\ESD Kanban.exe
+D:\桌面\ESD\obj\x86\Debug\ESD Kanban.xml
+D:\桌面\ESD\obj\x86\Debug\ESD Kanban.pdb
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD可视化看板\obj\x86\Debug\ESD Kanban.vbprojAssemblyReference.cache
+D:\ESD可视化看板\bin\x86\Debug\ESD Kanban.exe.config
+D:\ESD可视化看板\bin\x86\Debug\ESD Kanban.exe.manifest
+D:\ESD可视化看板\bin\x86\Debug\ESD Kanban.application
+D:\ESD可视化看板\bin\x86\Debug\ESD Kanban.exe
+D:\ESD可视化看板\bin\x86\Debug\ESD Kanban.pdb
+D:\ESD可视化看板\bin\x86\Debug\ESD Kanban.xml
+D:\ESD可视化看板\bin\x86\Debug\Newtonsoft.Json.dll
+D:\ESD可视化看板\bin\x86\Debug\ZedGraph.dll
+D:\ESD可视化看板\obj\x86\Debug\ESD_Kanban.ESD_Maintain.resources
+D:\ESD可视化看板\obj\x86\Debug\ESD_Kanban.ESD_STATE.resources
+D:\ESD可视化看板\obj\x86\Debug\ESD_Kanban.Form1.resources
+D:\ESD可视化看板\obj\x86\Debug\ESD_Kanban.Resources.resources
+D:\ESD可视化看板\obj\x86\Debug\ESD_Kanban.ESD_Agreement.resources
+D:\ESD可视化看板\obj\x86\Debug\ESD_Kanban.from_Squad_leader_selection.resources
+D:\ESD可视化看板\obj\x86\Debug\ESD_Kanban.from_Setting.resources
+D:\ESD可视化看板\obj\x86\Debug\ESD Kanban.vbproj.GenerateResource.Cache
+D:\ESD可视化看板\obj\x86\Debug\ESD Kanban.vbproj.CoreCompileInputs.cache
+D:\ESD可视化看板\obj\x86\Debug\ESD Kanban.exe.manifest
+D:\ESD可视化看板\obj\x86\Debug\ESD Kanban.application
+D:\ESD可视化看板\obj\x86\Debug\ESD Kanban.exe
+D:\ESD可视化看板\obj\x86\Debug\ESD Kanban.xml
+D:\ESD可视化看板\obj\x86\Debug\ESD Kanban.pdb
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\2019\ESD可视化看板\bin\x86\Debug\ESD Kanban.exe.config
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\2019\ESD可视化看板\bin\x86\Debug\ESD Kanban.exe.manifest
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\2019\ESD可视化看板\bin\x86\Debug\ESD Kanban.application
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\2019\ESD可视化看板\bin\x86\Debug\ESD Kanban.exe
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\2019\ESD可视化看板\bin\x86\Debug\ESD Kanban.pdb
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\2019\ESD可视化看板\bin\x86\Debug\ESD Kanban.xml
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\2019\ESD可视化看板\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\2019\ESD可视化看板\bin\x86\Debug\ZedGraph.dll
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\2019\ESD可视化看板\obj\x86\Debug\ESD Kanban.vbprojAssemblyReference.cache
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\2019\ESD可视化看板\obj\x86\Debug\ESD_Kanban.ESD_Maintain.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\2019\ESD可视化看板\obj\x86\Debug\ESD_Kanban.ESD_STATE.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\2019\ESD可视化看板\obj\x86\Debug\ESD_Kanban.Form1.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\2019\ESD可视化看板\obj\x86\Debug\ESD_Kanban.Resources.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\2019\ESD可视化看板\obj\x86\Debug\ESD_Kanban.ESD_Agreement.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\2019\ESD可视化看板\obj\x86\Debug\ESD_Kanban.from_Squad_leader_selection.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\2019\ESD可视化看板\obj\x86\Debug\ESD_Kanban.from_Setting.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\2019\ESD可视化看板\obj\x86\Debug\ESD Kanban.vbproj.GenerateResource.cache
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\2019\ESD可视化看板\obj\x86\Debug\ESD Kanban.vbproj.CoreCompileInputs.cache
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\2019\ESD可视化看板\obj\x86\Debug\ESD Kanban.exe.manifest
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\2019\ESD可视化看板\obj\x86\Debug\ESD Kanban.application
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\2019\ESD可视化看板\obj\x86\Debug\ESD Kanban.vbproj.CopyComplete
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\2019\ESD可视化看板\obj\x86\Debug\ESD Kanban.exe
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\2019\ESD可视化看板\obj\x86\Debug\ESD Kanban.xml
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\2019\ESD可视化看板\obj\x86\Debug\ESD Kanban.pdb
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD Kanban\bin\x86\Debug\ESD Kanban.exe.config
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD Kanban\bin\x86\Debug\ESD Kanban.exe.manifest
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD Kanban\bin\x86\Debug\ESD Kanban.application
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD Kanban\bin\x86\Debug\ESD Kanban.exe
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD Kanban\bin\x86\Debug\ESD Kanban.pdb
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD Kanban\bin\x86\Debug\ESD Kanban.xml
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD Kanban\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD Kanban\bin\x86\Debug\simpleupdater.dll
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD Kanban\bin\x86\Debug\ZedGraph.dll
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD Kanban\bin\x86\Debug\en\simpleupdater.resources.dll
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD Kanban\obj\x86\Debug\ESD Kanban.vbprojAssemblyReference.cache
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD Kanban\obj\x86\Debug\ESD_Kanban.ESD_Maintain.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD Kanban\obj\x86\Debug\ESD_Kanban.ESD_STATE.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD Kanban\obj\x86\Debug\ESD_Kanban.Form1.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD Kanban\obj\x86\Debug\ESD_Kanban.Resources.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD Kanban\obj\x86\Debug\ESD_Kanban.ESD_Agreement.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD Kanban\obj\x86\Debug\ESD_Kanban.from_Squad_leader_selection.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD Kanban\obj\x86\Debug\ESD_Kanban.from_Setting.resources
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD Kanban\obj\x86\Debug\ESD Kanban.vbproj.GenerateResource.cache
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD Kanban\obj\x86\Debug\ESD Kanban.vbproj.CoreCompileInputs.cache
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD Kanban\obj\x86\Debug\ESD Kanban.exe.manifest
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD Kanban\obj\x86\Debug\ESD Kanban.application
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD Kanban\obj\x86\Debug\ESD Kanban.vbproj.CopyComplete
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD Kanban\obj\x86\Debug\ESD Kanban.exe
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD Kanban\obj\x86\Debug\ESD Kanban.xml
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\ESD Kanban\obj\x86\Debug\ESD Kanban.pdb

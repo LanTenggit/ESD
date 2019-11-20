@@ -1,0 +1,10 @@
+
+2019-08-03 16:24:50 - 线程数[18] 线程[] 程序版本[1.0.0.10] 线体[BE02]同步时间错误-String 引用没有设置为 String 的实例。
+参数名: s
+   在 System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   在 System.DateTime.Parse(String s)
+   在 ESD_Kanban.GetSYSTEMTIME.Synchronization_time() 位置 C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\同步服务器时间\GetSYSTEMTIME.vb:行号 58
+2019-08-03 16:24:52 - 线程数[21] 线程[ESD串口通信线程] 程序版本[1.0.0.10] 线体[BE02]A线程循环发送串口指令 启动
+2019-08-03 16:24:52 - 线程数[23] 线程[报警状态轮询] 程序版本[1.0.0.10] 线体[BE02]报警灯(红灯)闪耀 启动
+2019-08-03 16:24:52 - 线程数[23] 线程[统计图表线程] 程序版本[1.0.0.10] 线体[BE02]统计图表方法线程 启动
+2019-08-03 16:24:52 - 线程数[23] 线程[统计图表线程] 程序版本[1.0.0.10] 线体[BE02]统计图表方法刷新线程 | 未将对象引用设置到对象的实例。|   在 ESD_Kanban.Form1.Statistical_chart() 位置 C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\Form1.vb:行号 1468

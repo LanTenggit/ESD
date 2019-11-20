@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<AuProject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateInfo>
+    <AppName>ESD Kanban.exe</AppName>
+    <AppVersion>1.0.1.7</AppVersion>
+    <FileExecuteAfter>ESD Kanban.exe</FileExecuteAfter>
+    <ExecuteTimeout>0</ExecuteTimeout>
+    <TreatErrorAsNotUpdated>false</TreatErrorAsNotUpdated>
+    <PromptUserBeforeAutomaticUpgrade>false</PromptUserBeforeAutomaticUpgrade>
+    <AutoCloseSucceedWindow>true</AutoCloseSucceedWindow>
+    <DeleteMethod>None</DeleteMethod>
+    <PackageSize>0</PackageSize>
+    <PackagePassword>1qaz!QAZ</PackagePassword>
+    <ForceUpdate>true</ForceUpdate>
+    <Packages />
+    <HideBeforeExecuteWindow>false</HideBeforeExecuteWindow>
+    <HideAfterExecuteWindow>false</HideAfterExecuteWindow>
+    <MustUpdate>true</MustUpdate>
+    <AutoExitCurrentProcess>true</AutoExitCurrentProcess>
+    <AutoEndProcessesWithinAppDir>true</AutoEndProcessesWithinAppDir>
+    <AutoKillProcesses>true</AutoKillProcesses>
+    <RequreAdminstrorPrivilege>false</RequreAdminstrorPrivilege>
+  </UpdateInfo>
+  <DefaultFileVerificationLevel>Size Hash</DefaultFileVerificationLevel>
+  <DefaultUpdateMethod>VersionCompare</DefaultUpdateMethod>
+  <Files>
+    <ProjectItem>
+      <Path>Parameter.ini</Path>
+      <UpdateMethod>Ignore</UpdateMethod>
+      <FileVerificationLevel>None</FileVerificationLevel>
+    </ProjectItem>
+    <ProjectItem>
+      <Path>WpfKb.pdb</Path>
+      <UpdateMethod>Ignore</UpdateMethod>
+      <FileVerificationLevel>None</FileVerificationLevel>
+    </ProjectItem>
+    <ProjectItem>
+      <Path>版本记录.xlsx</Path>
+      <UpdateMethod>Ignore</UpdateMethod>
+      <FileVerificationLevel>None</FileVerificationLevel>
+    </ProjectItem>
+    <ProjectItem>
+      <Path>WpfKb.xml</Path>
+      <UpdateMethod>Ignore</UpdateMethod>
+      <FileVerificationLevel>None</FileVerificationLevel>
+    </ProjectItem>
+    <ProjectItem>
+      <Path>Data query analysis.xml</Path>
+      <UpdateMethod>Ignore</UpdateMethod>
+      <FileVerificationLevel>None</FileVerificationLevel>
+    </ProjectItem>
+    <ProjectItem>
+      <Path>Equipment repair client.xml</Path>
+      <UpdateMethod>Ignore</UpdateMethod>
+      <FileVerificationLevel>None</FileVerificationLevel>
+    </ProjectItem>
+    <ProjectItem>
+      <Path>InputSimulator.xml</Path>
+      <UpdateMethod>Ignore</UpdateMethod>
+      <FileVerificationLevel>None</FileVerificationLevel>
+    </ProjectItem>
+    <ProjectItem>
+      <Path>Newtonsoft.Json.xml</Path>
+      <UpdateMethod>Ignore</UpdateMethod>
+      <FileVerificationLevel>None</FileVerificationLevel>
+    </ProjectItem>
+    <ProjectItem>
+      <Path>System.Data.SQLite.xml</Path>
+      <UpdateMethod>Ignore</UpdateMethod>
+      <FileVerificationLevel>None</FileVerificationLevel>
+    </ProjectItem>
+    <ProjectItem>
+      <Path>System.Windows.Interactivity.xml</Path>
+      <UpdateMethod>Ignore</UpdateMethod>
+      <FileVerificationLevel>None</FileVerificationLevel>
+    </ProjectItem>
+    <ProjectItem>
+      <Path>updateconfig.ini</Path>
+      <UpdateMethod>Ignore</UpdateMethod>
+      <FileVerificationLevel>None</FileVerificationLevel>
+    </ProjectItem>
+    <ProjectItem>
+      <Path>1updateconfig.ini</Path>
+      <UpdateMethod>Ignore</UpdateMethod>
+      <FileVerificationLevel>None</FileVerificationLevel>
+    </ProjectItem>
+    <ProjectItem>
+      <Path>Update_Detection.exe</Path>
+      <UpdateMethod>Ignore</UpdateMethod>
+      <FileVerificationLevel>None</FileVerificationLevel>
+    </ProjectItem>
+    <ProjectItem>
+      <Path>Update.exe</Path>
+      <UpdateMethod>Ignore</UpdateMethod>
+      <FileVerificationLevel>None</FileVerificationLevel>
+    </ProjectItem>
+  </Files>
+  <ApplicationDirectory>Debug</ApplicationDirectory>
+  <DestinationDirectory>发布</DestinationDirectory>
+  <CreateCompatiblePackage>true</CreateCompatiblePackage>
+  <CompressPackage>true</CompressPackage>
+  <EnableIncreaseUpdate>true</EnableIncreaseUpdate>
+  <VersionUpdateSrc>Debug\ESD Kanban.exe</VersionUpdateSrc>
+  <PackageExtension>zip</PackageExtension>
+  <UseRandomPackageNaming>true</UseRandomPackageNaming>
+  <CleanBeforeBuild>true</CleanBeforeBuild>
+  <ComponentFlags />
+</AuProject>

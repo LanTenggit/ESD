@@ -1,0 +1,30 @@
+
+正在处理 C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\bin\x86\ESD看板.ci 2019-08-03 16:27:04
+日志文件: C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\bin\x86\ESD看板.log 
+正在生成源... 
+正在编译 Gentee 源... 
+构建安装程序文件: C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\bin\x86\ESD看板系统安装包.exe 
+正在将 temporary 文件添加到 EXE 
+C:\Users\YUAN.SUO\AppData\Local\Temp\gentee02\chinese_simplified.lng 2019-08-03 16:27:05 3387  51.07%
+C:\Program Files (x86)\CreateInstall Free\res\logo\default - 1.bmp 2002-11-05 16:52:24 7308  52.50%
+C:\Program Files (x86)\CreateInstall Free\res\leftimg\install\install - 1.bmp 2002-11-10 16:56:02 20678  33.42%
+C:\Program Files (x86)\CreateInstall Free\res\leftimg\uninstall\uninstall - 1.bmp 2002-11-10 16:56:02 20678  28.17%
+构建安装程序文件: C:\Users\YUAN.SUO\AppData\Local\Temp\gentee02\uninstall.exe 
+正在将 uninstall 文件添加到 EXE 
+正在获取文件列表 
+正在打包文件... 
+================================ 
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\bin\x86\Debug\en\simpleupdater.resources.dll 2016-03-19 18:33:47 81920  29.59%
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\bin\x86\Debug\ESD Kanban.exe 2019-08-03 16:19:39 800256  27.30%
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\bin\x86\Debug\ESD Kanban.exe.config 2019-08-03 15:46:10 183  50.27%
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\bin\x86\Debug\ESD Kanban.pdb 2019-08-03 16:19:39 208384  28.01%
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\bin\x86\Debug\ESD Kanban.xml 2019-08-03 16:19:39 43538  14.80%
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\bin\x86\Debug\Log\20190803\20190803.log 2019-08-03 16:24:52 1000  44.10%
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\bin\x86\Debug\Newtonsoft.Json.dll 2016-01-28 14:22:24 504320  39.02%
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\bin\x86\Debug\Parameter.ini 2019-08-03 16:24:52 6293  18.36%
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\bin\x86\Debug\simpleupdater.dll 2016-03-19 18:33:47 386560  38.83%
+C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\bin\x86\Debug\ZedGraph.dll 2019-08-03 15:46:05 303104  39.18%
+================================ 
+所有文件: 10 [ 2280KB => 756KB ] 
+文件大小 C:\Users\YUAN.SUO\Documents\程序开发\ESD在线看板\SVN版本\bin\x86\ESD看板系统安装包.exe: 870 KB 
+成功完成 2019-08-03 16:27:07

@@ -1,0 +1,277 @@
+<?xml version="1.0"?>
+<UpdateInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AppName>ESD Kanban.exe</AppName>
+  <AppVersion>1.0.0.11</AppVersion>
+  <FileExecuteAfter>ESD Kanban.exe</FileExecuteAfter>
+  <ExecuteTimeout>0</ExecuteTimeout>
+  <TreatErrorAsNotUpdated>false</TreatErrorAsNotUpdated>
+  <PromptUserBeforeAutomaticUpgrade>false</PromptUserBeforeAutomaticUpgrade>
+  <AutoCloseSucceedWindow>true</AutoCloseSucceedWindow>
+  <Package>4e24fcce47a54fd6963ea4cffb1a410e.zip</Package>
+  <MD5>8EB16E02583A4E929313AA61EFB20B8B</MD5>
+  <DeleteMethod>None</DeleteMethod>
+  <PackageSize>1158484</PackageSize>
+  <PackagePassword>1qaz!QAZ</PackagePassword>
+  <ForceUpdate>true</ForceUpdate>
+  <Packages>
+    <PackageInfo>
+      <FilePath>ESD Kanban.application</FilePath>
+      <FileSize>1832</FileSize>
+      <Version>0.0.0.0</Version>
+      <PackageHash>098FEACEDEF5EA82F93332C3D7711D16</PackageHash>
+      <PackageName>72735e6b33884b329341b5d43ffef75a.zip</PackageName>
+      <PackageSize>856</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>42AF142E145A42C080D790C1897D8BAB</FileHash>
+      <Files>
+        <string>ESD Kanban.application</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>ESD Kanban.exe</FilePath>
+      <FileSize>808448</FileSize>
+      <Version>1.0.0.11</Version>
+      <PackageHash>8E355298D8579D68339356F52720883F</PackageHash>
+      <PackageName>19bb7223d79241ba972615f1c873440d.zip</PackageName>
+      <PackageSize>293555</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>9EF632C21A10A3B4CA39075023246FDB</FileHash>
+      <Files>
+        <string>ESD Kanban.exe</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>ESD Kanban.exe.config</FilePath>
+      <FileSize>183</FileSize>
+      <Version>0.0.0.0</Version>
+      <PackageHash>0E55A98E841EA0F0C59CA46A607B68FB</PackageHash>
+      <PackageName>f51a1fff6eaf4d288f89908de935812a.zip</PackageName>
+      <PackageSize>300</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>23E43C33EF0B36EF2E02C0C49E410D46</FileHash>
+      <Files>
+        <string>ESD Kanban.exe.config</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>ESD Kanban.exe.manifest</FilePath>
+      <FileSize>6686</FileSize>
+      <Version>0.0.0.0</Version>
+      <PackageHash>192D509766AE1D3162A1AE805F7E31CB</PackageHash>
+      <PackageName>205de02dc6434135aab1de3cf0a767da.zip</PackageName>
+      <PackageSize>1885</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>1179A20A3EB91363FB9873367A432842</FileHash>
+      <Files>
+        <string>ESD Kanban.exe.manifest</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>ESD Kanban.pdb</FilePath>
+      <FileSize>212480</FileSize>
+      <Version>0.0.0.0</Version>
+      <PackageHash>0B9D49E92F5DEAADDD9BB01CE3949CFB</PackageHash>
+      <PackageName>fea88bc791c341da83fd484cedb6523b.zip</PackageName>
+      <PackageSize>58180</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>163797DBA2E5FA6CA131647EB41F835B</FileHash>
+      <Files>
+        <string>ESD Kanban.pdb</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>ESD Kanban.xml</FilePath>
+      <FileSize>43884</FileSize>
+      <Version>0.0.0.0</Version>
+      <PackageHash>924F25C66198E03C7683A7D929CC9E17</PackageHash>
+      <PackageName>8f4b20044afa48dc8af7ec0cd2b37095.zip</PackageName>
+      <PackageSize>6495</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>CAE4660B78341F0299DC5FA22C7F469B</FileHash>
+      <Files>
+        <string>ESD Kanban.xml</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>Newtonsoft.Json.dll</FilePath>
+      <FileSize>504320</FileSize>
+      <Version>6.0.8.18111</Version>
+      <PackageHash>0041A56225FFFD7C34A3A8EA1AC23C5D</PackageHash>
+      <PackageName>5b35c2c7fc57486db5971da62d458666.zip</PackageName>
+      <PackageSize>193474</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>5E02DDAF3B02E43E532FC6A52B04D14B</FileHash>
+      <Files>
+        <string>Newtonsoft.Json.dll</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>simpleupdater.dll</FilePath>
+      <FileSize>386560</FileSize>
+      <Version>4.3.0.0</Version>
+      <PackageHash>E80E319B1ADD14D837ED58C7E4249967</PackageHash>
+      <PackageName>87d1deb82cec460aacc9024337e5416b.zip</PackageName>
+      <PackageSize>148719</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>342F53543866F6406E7BCBCF3A31EF66</FileHash>
+      <Files>
+        <string>simpleupdater.dll</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>ZedGraph.dll</FilePath>
+      <FileSize>303104</FileSize>
+      <Version>5.0.9.41461</Version>
+      <PackageHash>4AB45F6D257C85B5C64609B2877158BF</PackageHash>
+      <PackageName>e0f4793c25284e119015d9d54dbe9ed4.zip</PackageName>
+      <PackageSize>118181</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>439F58C4236F908290F4BBD8453BB831</FileHash>
+      <Files>
+        <string>ZedGraph.dll</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>app.publish\ESD Kanban.exe</FilePath>
+      <FileSize>808448</FileSize>
+      <Version>1.0.0.11</Version>
+      <PackageHash>A33F297F739E96E40586B1FE6A3F18A6</PackageHash>
+      <PackageName>8f8cef7eef124370b188844e4f2ad5e6.zip</PackageName>
+      <PackageSize>293691</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>9EF632C21A10A3B4CA39075023246FDB</FileHash>
+      <Files>
+        <string>app.publish\ESD Kanban.exe</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>en\simpleupdater.resources.dll</FilePath>
+      <FileSize>81920</FileSize>
+      <Version>4.3.0.0</Version>
+      <PackageHash>A7C2B26B6992AEC884CBD8727CEBE970</PackageHash>
+      <PackageName>c1bf559eb7ae4c1fa05efcedb0b53878.zip</PackageName>
+      <PackageSize>24018</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>A6CBDFB422819FAE49530E4E222C4438</FileHash>
+      <Files>
+        <string>en\simpleupdater.resources.dll</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>Log\20190803\20190803.log</FilePath>
+      <FileSize>1000</FileSize>
+      <Version>0.0.0.0</Version>
+      <PackageHash>5474C4FBFAD41E4E2E47170444085684</PackageHash>
+      <PackageName>d06815cc1fa44c7cafa1f2e7da52be9e.zip</PackageName>
+      <PackageSize>801</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>B8CDAE6AFB58BE5F67CF485914CD7B26</FileHash>
+      <Files>
+        <string>Log\20190803\20190803.log</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>Log\20190927\20190927.log</FilePath>
+      <FileSize>126144</FileSize>
+      <Version>0.0.0.0</Version>
+      <PackageHash>10465F072A8B761C65C064DF59561655</PackageHash>
+      <PackageName>362d062debbc4b95bd12fe2e88dacd4e.zip</PackageName>
+      <PackageSize>5800</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>788C510C130D2CCC39932E25358CA564</FileHash>
+      <Files>
+        <string>Log\20190927\20190927.log</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>Log\20190928\20190928.log</FilePath>
+      <FileSize>37374</FileSize>
+      <Version>0.0.0.0</Version>
+      <PackageHash>307576E03B4BCC38DBFCC7386C08D0E6</PackageHash>
+      <PackageName>a8c6b6459b014d9ea6381f2fb8963eb5.zip</PackageName>
+      <PackageSize>2109</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>537968C0D50DF99421243203D4A135B0</FileHash>
+      <Files>
+        <string>Log\20190928\20190928.log</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>Log\20191011\20191011.log</FilePath>
+      <FileSize>7502</FileSize>
+      <Version>0.0.0.0</Version>
+      <PackageHash>632CED9E61AD768175F2114FD4D79437</PackageHash>
+      <PackageName>2b5a7545bb614bdf960b7e5deea0fab9.zip</PackageName>
+      <PackageSize>1106</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>798133ED4C3367509CD6E8FEB64C48F3</FileHash>
+      <Files>
+        <string>Log\20191011\20191011.log</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>Log\20191029\20191029.log</FilePath>
+      <FileSize>42516</FileSize>
+      <Version>0.0.0.0</Version>
+      <PackageHash>636F1DCA19C0C090D57855EC47B11727</PackageHash>
+      <PackageName>3de32122ce5c41fdaa8d9ab905e7cfb2.zip</PackageName>
+      <PackageSize>3047</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>1D0BACE837CDBF0CA093F665B239990F</FileHash>
+      <Files>
+        <string>Log\20191029\20191029.log</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>Log\20191104\20191104.log</FilePath>
+      <FileSize>7744</FileSize>
+      <Version>0.0.0.0</Version>
+      <PackageHash>7483325D274E8D52D7C3C45122F97B99</PackageHash>
+      <PackageName>8544c6f07c074890a07eb32402c7ab84.zip</PackageName>
+      <PackageSize>1245</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>029979C16225BF2DFD8B8F163286C482</FileHash>
+      <Files>
+        <string>Log\20191104\20191104.log</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>Log\20191112\20191112.log</FilePath>
+      <FileSize>38473</FileSize>
+      <Version>0.0.0.0</Version>
+      <PackageHash>E63DBC51945431F668C9BD3E47603FC1</PackageHash>
+      <PackageName>17fe25368a3d416b9c3675a798498ee9.zip</PackageName>
+      <PackageSize>5396</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>024144600C96B7E38C9E8C23ADBAF48B</FileHash>
+      <Files>
+        <string>Log\20191112\20191112.log</string>
+      </Files>
+    </PackageInfo>
+  </Packages>
+  <HideBeforeExecuteWindow>false</HideBeforeExecuteWindow>
+  <HideAfterExecuteWindow>false</HideAfterExecuteWindow>
+  <MustUpdate>true</MustUpdate>
+  <AutoExitCurrentProcess>true</AutoExitCurrentProcess>
+  <AutoEndProcessesWithinAppDir>true</AutoEndProcessesWithinAppDir>
+  <AutoKillProcesses>true</AutoKillProcesses>
+  <RequreAdminstrorPrivilege>false</RequreAdminstrorPrivilege>
+</UpdateInfo>
